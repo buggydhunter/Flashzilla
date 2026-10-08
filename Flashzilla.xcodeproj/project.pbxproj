@@ -6,13 +6,8 @@
 	objectVersion = 110;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		472FC92A3078241500E67D3D /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 472FC9293078241500E67D3D /* CardView.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXFileReference section */
 		472FC9193078231200E67D3D /* Flashzilla.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Flashzilla.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		472FC9293078241500E67D3D /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -35,7 +30,6 @@
 		472FC9103078231200E67D3D = {
 			isa = PBXGroup;
 			children = (
-				472FC9293078241500E67D3D /* CardView.swift */,
 				472FC91B3078231200E67D3D /* Flashzilla */,
 				472FC91A3078231200E67D3D /* Products */,
 			);
@@ -116,7 +110,6 @@
 		472FC9153078231200E67D3D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			files = (
-				472FC92A3078241500E67D3D /* CardView.swift in Sources */,
 			);
 		};
 /* End PBXSourcesBuildPhase section */
